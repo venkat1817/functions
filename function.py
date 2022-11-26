@@ -1,4 +1,4 @@
-''
+'''
 age=int(input("enter a your age:"))
 if age>=18:
         print("your eligible to vote")
@@ -150,4 +150,5 @@ FilterAllOddNums(lst)                           #output:
                                                 [3]
                                                 [3, 5]
                                                 [3, 5, 13]
-                                                [3, 5, 13, 43
+                                                [3, 5, 13, 43]
+'''
